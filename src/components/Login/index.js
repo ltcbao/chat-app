@@ -29,7 +29,7 @@ export default function Login() {
       <Row justify="center" style={{ height: 800 }}>
         <Col span={8}>
           <Title style={{ textAlign: "center" }} level={3}>
-            HB Chat
+            VB Chat
           </Title>
           <Button
             style={{ width: "100%", marginBottom: 5 }}
